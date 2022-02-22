@@ -1,0 +1,75 @@
+./environment/.c9/metadata/environment/SomeDir/longText.txt
+./environment/SomeDir/longText.txt
+./environment/aTextFile.txt
+./environment/homeTxt.txt
+./.nvm/test/fast/Unit tests/mocks/nvm ls-remote iojs.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote LTS argon.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote LTS nightly argon.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote LTS nightly.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote_iojs.txt
+./.nvm/test/fast/Unit tests/mocks/LTS_names.txt
+./.nvm/test/fast/Unit tests/mocks/nvm ls-remote lts.txt
+./.nvm/test/fast/Unit tests/mocks/nvm ls-remote node.txt
+./.nvm/test/fast/Unit tests/mocks/nvm ls-remote.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote LTS.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote nightly.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote stable nightly.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote stable.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_ls_remote.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_make_alias LTS alias calls.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_print_implicit_alias remote stable nightly.txt
+./.nvm/test/fast/Unit tests/mocks/nvm_print_implicit_alias remote stable.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/npm/node_modules/emoji-regex/LICENSE-MIT.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/npm/node_modules/node-gyp/gyp/requirements_dev.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/npm/node_modules/opener/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/npm/node_modules/set-blocking/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/npm/node_modules/signal-exit/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/typescript/CopyrightNotice.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/typescript/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/typescript/ThirdPartyNoticeText.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/esformatter/node_modules/semver/foot.js.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/esformatter/node_modules/semver/head.js.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/esformatter/doc/cli.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/test/integ/cli-regression-patches/v1.61.1/skip-tests.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/test/integ/cli-regression-patches/v1.63.0/skip-tests.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/test/integ/helpers/skip-tests.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v1/app/python/requirements-dev.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v1/app/python/requirements.template.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v1/sample-app/python/requirements-dev.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v1/sample-app/python/requirements.template.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v2/app/python/requirements-dev.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v2/app/python/requirements.template.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v2/sample-app/python/requirements-dev.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/lib/init-templates/v2/sample-app/python/requirements.template.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/emoji-regex/LICENSE-MIT.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/punycode/LICENSE-MIT.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/cliui/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/yargs-parser/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/wordwrap/test/idleness.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/xregexp/MIT-LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/tslib/CopyrightNotice.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/tslib/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/aws-sdk/dist/BUNDLE_LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/aws-sdk/LICENSE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/aws-sdk/NOTICE.txt
+./.nvm/versions/node/v16.14.0/lib/node_modules/cdk/node_modules/aws-cdk/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+./.rvm/src/rvm/help/index.txt
+./.rvm/gems/ruby-2.6.3/gems/concurrent-ruby-1.1.9/LICENSE.txt
+./.rvm/gems/ruby-2.6.3/gems/loofah-2.13.0/MIT-LICENSE.txt
+./.rvm/gems/ruby-2.6.3/gems/erubis-2.7.0/README.txt
+./.rvm/gems/ruby-2.6.3/gems/erubis-2.7.0/CHANGES.txt
+./.rvm/gems/ruby-2.6.3/gems/rack-test-0.6.3/History.txt
+./.rvm/gems/ruby-2.6.3/gems/rack-test-0.6.3/MIT-LICENSE.txt
+./.rvm/gems/ruby-2.6.3/gems/rack-test-0.6.3/spec/fixtures/bar.txt
+./.rvm/gems/ruby-2.6.3/gems/rack-test-0.6.3/spec/fixtures/foo.txt
+./.rvm/gems/ruby-2.6.3/gems/railties-5.0.0/lib/rails/generators/rails/app/templates/public/robots.txt
+./.rvm/gems/ruby-2.6.3/gems/nio4r-1.2.1/LICENSE.txt
+./.rvm/gems/ruby-2.6.3/gems/mini_mime-1.1.2/LICENSE.txt
+./.rvm/gems/ruby-2.6.3/gems/arel-7.1.4/History.txt
+./.rvm/gems/ruby-2.6.3/gems/arel-7.1.4/MIT-LICENSE.txt
+./.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/LICENSE.txt
+./.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/Manifest.txt
+./.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/LICENSE.txt
+./.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/LICENSE.txt
+./.rvm/config/displayed-notes.txt
+./.rvm/help/index.txt
